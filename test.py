@@ -19,3 +19,5 @@ class Example3(   object ):
 Only actual code should be reindented.
 """
                     return (sys.path, some_string)
+
+## flake8.ymlの編集の後、test.pyがflake8によってチェックされなかったのでコメントを追加します。
