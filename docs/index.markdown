@@ -10,8 +10,4 @@ title: "ソフトウェア工学 2026"
 
 git/github演習
 
-<<<<<<< HEAD
 [softwareEng Lecture Notes](softwareEng2026.md)
-=======
-[softwareEng Lecture Notes](softwareEng2026.md)
->>>>>>> fb43d74 (build hello-world/docs/...)
