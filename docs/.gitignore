@@ -3,5 +3,8 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+<<<<<<< HEAD
 
 Gemfile.lock
+=======
+>>>>>>> fb43d74 (build hello-world/docs/...)
